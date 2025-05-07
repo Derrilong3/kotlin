@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Мій Список</string>
+    <string name="add_item">Додати товар</string>
+    <string name="add">Додати</string>
+    <string name="edit">Редагувати</string>
+    <string name="save">Зберегти</string>
+    <string name="delete">Видалити</string>
+    <string name="bought_count">Куплено: %1$d/%2$d</string>
+</resources>
